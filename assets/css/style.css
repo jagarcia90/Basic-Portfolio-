@@ -10,15 +10,11 @@ body {
 	box-sizing: border-box;
 }
 
-/* Main Page */
-
-/* Sticky Footer */
 
 #container {
 	min-height: calc(100vh - 264px);
 }
 
-/* General Styling */
 
 h1, h2 {
 	font-family: "Georgia";
@@ -124,7 +120,6 @@ footer {
 	width: 650px;
 }
 
-/* Contact */
 
 #contact-form ul {
   margin-bottom: 20px;
@@ -164,7 +159,6 @@ input[type=submit] {
   border: 0 none;
 }
 
-/* Portfolio */
 .Photo {
   position: relative;
   float: left;
@@ -199,7 +193,6 @@ input[type=submit] {
   font-size: 22px;
 }
 
-/* Hover */
 #logo:hover,
 input[type=submit]:hover {
   background: #5e7f7e;
